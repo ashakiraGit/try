@@ -1,6 +1,7 @@
 content try
 - git
-- laravel
+- Framework PHP: laravel
 - sambung publication system
 - rest API
+- Framework javascript: Angular
 - payment gateway
