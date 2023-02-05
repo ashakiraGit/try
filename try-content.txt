@@ -1,6 +1,7 @@
 content try
 - git
-- Framework: codeigniter
+- Framework PHP: laravel
 - sambung publication system
 - rest API
-
+- Framework javascript: Angular
+- payment gateway
