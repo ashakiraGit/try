@@ -1,6 +1,6 @@
 content try
 - git
-- laravel
+- Framework: codeigniter
 - sambung publication system
 - rest API
-- payment gateway
+
